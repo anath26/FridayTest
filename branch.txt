@@ -1,1 +1,1 @@
-what a branch ?
+a branch is a way to create different versions of our codes wich exist in "parallele" without affecting each other and independant one to another that we can switch between them as much as we want.
