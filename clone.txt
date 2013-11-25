@@ -1,1 +1,2 @@
-what git clone does ?
+If you need to collaborate with someone on a project, or if you want to get a copy of a project so you can look at or use the code, you will clone it.
+This will copy the entire history of that project so you have it locally and it will give you a working directory of the main branch of that project so you can look at the code or start editing it.
